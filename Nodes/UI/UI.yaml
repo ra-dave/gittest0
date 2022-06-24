@@ -107,7 +107,7 @@ Children:
       Type: BaseDataVariableType
       DataType: Color
       ModellingRule: Optional
-      Value: "#000000"
+      Value: "#000002"
     - Name: FillColor
       Type: BaseDataVariableType
       DataType: Color

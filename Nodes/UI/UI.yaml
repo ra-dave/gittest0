@@ -112,7 +112,7 @@ Children:
       Type: BaseDataVariableType
       DataType: Color
       ModellingRule: Optional
-      Value: "#ffffff"
+      Value: "#fffffe"
     - Name: BorderThickness
       Type: BaseDataVariableType
       DataType: Size
